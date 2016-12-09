@@ -1,0 +1,4 @@
+1.Clone the project form github into your computer
+2.copy folder News and past it into directory C:/wamp/www
+3.open mysql and phpmyadmin then select import then browse it to select 127_0_1.sql file
+4.Go to this address http://localhost/news/index.php/post 
